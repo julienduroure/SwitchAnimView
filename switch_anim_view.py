@@ -22,8 +22,8 @@ bl_info = {
 	"blender": (2,77, 0),
 	"description": "Switch between Graph Editor & DopeSheet",
 	"wiki_url": "http://blerifa.com/tools/SwitchAnimView/",
-	"tracker_url": "https://github.com/julienduroure/SwitchAnimView/",
-	"category": "Animation",	 
+	"tracker_url": "https://github.com/julienduroure/SwitchAnimView/issues/",
+	"category": "Animation",
 }
 
 import bpy
@@ -53,7 +53,7 @@ addon_keymaps = []
 
 def register():
 	bpy.utils.register_class(SwitchAnimView)
-	
+
 	wm = bpy.context.window_manager
 
 	if wm.keyconfigs.addon:
@@ -77,8 +77,7 @@ def unregister():
 
 	# clear the list
 	del addon_keymaps[:]
-	
+
 if __name__ == "__main__":
     print("register")
     register()
-
