@@ -5,3 +5,8 @@ Based on an idea from Hjalti Hjalmarsson.
 
 # More info ...
 ... On [BleRiFa](http://blerifa.com/tools/SwitchAnimView/) website
+
+# How to help ?
+Buy me a coffee!  
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTKPLVRP3VV7J)
