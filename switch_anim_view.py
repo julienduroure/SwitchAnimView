@@ -19,7 +19,7 @@ bl_info = {
 	"name": "Switch Anim View",
 	"author": "Julien Duroure, based on Hjalti Hjalmarsson idea",
 	"version": (1, 0, 0),
-	"blender": (2,77, 0),
+	"blender": (2,78, 0),
 	"description": "Switch between Graph Editor & DopeSheet",
 	"wiki_url": "http://blerifa.com/tools/SwitchAnimView/",
 	"tracker_url": "https://github.com/julienduroure/SwitchAnimView/issues/",
