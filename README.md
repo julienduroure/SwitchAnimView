@@ -2,7 +2,7 @@
 
 Switch between GraphEditor and DopeSheet with Z  
 Based on an idea from Hjalti Hjalmarsson.  
-(and seems to be also included into [Amaranth Addon](http://pablovazquez.org/amaranth/)
+(and seems to be also included into [Amaranth Addon](http://pablovazquez.org/amaranth/)).
 
 # More info ...
 ... On [BleRiFa](http://blerifa.com/tools/SwitchAnimView/) website
