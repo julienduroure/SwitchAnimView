@@ -1,3 +1,7 @@
+# Blender version
+This addon must be used with version 2.7x  
+This feature is included by default on 2.8x, with **Ctrl+Tab** shorcut, so this addon is useless with 2.8x
+
 # Switch Anim View
 
 Switch between GraphEditor and DopeSheet with Z  
